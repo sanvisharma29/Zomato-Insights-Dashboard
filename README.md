@@ -38,7 +38,7 @@ This project aims to explore and visualize restaurant data from Zomato to help u
 ## 🖼️ Dashboard Preview
 
 ### Overview
-[slide 1](https://github.com/user-attachments/assets/5182bb56-ba12-47d0-88d5-fef22fd87fa5)
+![slide 1](https://github.com/user-attachments/assets/5182bb56-ba12-47d0-88d5-fef22fd87fa5)
 
 
 ### User Analysis
