@@ -60,13 +60,7 @@ To view the .pbix dashboard, please download the file and open it using Power BI
 You can download Power BI Desktop for free from:
 https://powerbi.microsoft.com/desktop
 
-## 🗂️ Files in This Repository
-
-| File Name              | Description                                 |
-|------------------------|---------------------------------------------|
-| `Zomato_Data.csv`      | Raw dataset used in the analysis            |
-| `README.md`            | Project overview and documentation          |
-| `/screenshots`         | Contains dashboard images for preview       |
+ 
 
 ---
 
